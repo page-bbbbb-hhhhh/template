@@ -1,2 +1,3 @@
 # template
 程序模板
+github token=voD3=bRPx73HzFKJOESQcaqYxNuwQ23LUH0VEoR11KfnqIQfSt
